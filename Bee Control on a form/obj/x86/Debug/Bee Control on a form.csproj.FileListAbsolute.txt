@@ -1,0 +1,7 @@
+C:\Users\AleshkinDV\Desktop\C# наброски\Bee Hive Simulator\Bee Control on a form\bin\Debug\Bee Control on a form.exe
+C:\Users\AleshkinDV\Desktop\C# наброски\Bee Hive Simulator\Bee Control on a form\bin\Debug\Bee Control on a form.pdb
+C:\Users\AleshkinDV\Desktop\C# наброски\Bee Hive Simulator\Bee Control on a form\obj\x86\Debug\Bee_Control_on_a_form.Properties.Resources.resources
+C:\Users\AleshkinDV\Desktop\C# наброски\Bee Hive Simulator\Bee Control on a form\obj\x86\Debug\Bee Control on a form.csproj.GenerateResource.Cache
+C:\Users\AleshkinDV\Desktop\C# наброски\Bee Hive Simulator\Bee Control on a form\obj\x86\Debug\Bee Control on a form.exe
+C:\Users\AleshkinDV\Desktop\C# наброски\Bee Hive Simulator\Bee Control on a form\obj\x86\Debug\Bee Control on a form.pdb
+C:\Users\AleshkinDV\Desktop\C# наброски\Bee Hive Simulator\Bee Control on a form\obj\x86\Debug\Bee_Control_on_a_form.Form1.resources

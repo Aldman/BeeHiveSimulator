@@ -1,0 +1,29 @@
+C:\Users\AleshkinDV\Desktop\C# наброски\Bee Hive Simulator\Bee Hive Simulator\bin\Debug\Bee Hive Simulator.exe
+C:\Users\AleshkinDV\Desktop\C# наброски\Bee Hive Simulator\Bee Hive Simulator\bin\Debug\Bee Hive Simulator.pdb
+C:\Users\AleshkinDV\Desktop\C# наброски\Bee Hive Simulator\Bee Hive Simulator\obj\x86\Debug\Bee_Hive_Simulator.Properties.Resources.resources
+C:\Users\AleshkinDV\Desktop\C# наброски\Bee Hive Simulator\Bee Hive Simulator\obj\x86\Debug\Bee Hive Simulator.csproj.GenerateResource.Cache
+C:\Users\AleshkinDV\Desktop\C# наброски\Bee Hive Simulator\Bee Hive Simulator\obj\x86\Debug\Bee Hive Simulator.exe
+C:\Users\AleshkinDV\Desktop\C# наброски\Bee Hive Simulator\Bee Hive Simulator\obj\x86\Debug\Bee Hive Simulator.pdb
+C:\Users\AleshkinDV\Desktop\C# наброски\Bee Hive Simulator\Bee Hive Simulator\obj\x86\Debug\Bee_Hive_Simulator.Form1.resources
+C:\Users\alyos\OneDrive\Рабочий стол\Проекты\Bee Hive Simulator\Bee Hive Simulator\obj\x86\Debug\Bee Hive Simulator.exe
+C:\Users\alyos\OneDrive\Рабочий стол\Проекты\Bee Hive Simulator\Bee Hive Simulator\obj\x86\Debug\Bee Hive Simulator.pdb
+C:\Users\alyos\OneDrive\Рабочий стол\Проекты\Bee Hive Simulator\Bee Hive Simulator\bin\Debug\Bee Hive Simulator.exe
+C:\Users\alyos\OneDrive\Рабочий стол\Проекты\Bee Hive Simulator\Bee Hive Simulator\bin\Debug\Bee Hive Simulator.pdb
+C:\Users\alyos\OneDrive\Рабочий стол\Проекты\Bee Hive Simulator\Bee Hive Simulator\obj\x86\Debug\Bee_Hive_Simulator.Form1.resources
+C:\Users\alyos\OneDrive\Рабочий стол\Проекты\Bee Hive Simulator\Bee Hive Simulator\obj\x86\Debug\Bee_Hive_Simulator.Properties.Resources.resources
+C:\Users\alyos\OneDrive\Рабочий стол\Проекты\Bee Hive Simulator\Bee Hive Simulator\obj\x86\Debug\Bee Hive Simulator.csproj.GenerateResource.Cache
+C:\Users\alyos\OneDrive\Рабочий стол\Проекты\Bee Hive Simulator\Bee Hive Simulator\obj\x86\Debug\Bee Hive Simulator.csprojResolveAssemblyReference.cache
+C:\Users\AleshkinDV\Desktop\C# наброски\Bee Hive Simulator\Bee Hive Simulator\obj\x86\Debug\Bee Hive Simulator.csprojResolveAssemblyReference.cache
+C:\Users\AleshkinDV\Desktop\C# наброски\Bee Hive Simulator\Bee Hive Simulator\obj\x86\Debug\Bee_Hive_Simulator.BeeControl.resources
+C:\Users\AleshkinDV\Desktop\C# наброски\Bee Hive Simulator\Bee Hive Simulator\obj\x86\Debug\Bee_Hive_Simulator.FieldForm.resources
+C:\Users\AleshkinDV\Desktop\C# наброски\Bee Hive Simulator\Bee Hive Simulator\obj\x86\Debug\Bee_Hive_Simulator.HiveForm.resources
+C:\Users\alyos\OneDrive\Рабочий стол\Проекты\VS2010\Bee Hive Simulator\Bee Hive Simulator\obj\x86\Debug\Bee Hive Simulator.exe
+C:\Users\alyos\OneDrive\Рабочий стол\Проекты\VS2010\Bee Hive Simulator\Bee Hive Simulator\obj\x86\Debug\Bee Hive Simulator.pdb
+C:\Users\alyos\OneDrive\Рабочий стол\Проекты\VS2010\Bee Hive Simulator\Bee Hive Simulator\bin\Debug\Bee Hive Simulator.exe
+C:\Users\alyos\OneDrive\Рабочий стол\Проекты\VS2010\Bee Hive Simulator\Bee Hive Simulator\bin\Debug\Bee Hive Simulator.pdb
+C:\Users\alyos\OneDrive\Рабочий стол\Проекты\VS2010\Bee Hive Simulator\Bee Hive Simulator\obj\x86\Debug\Bee Hive Simulator.csprojResolveAssemblyReference.cache
+C:\Users\alyos\OneDrive\Рабочий стол\Проекты\VS2010\Bee Hive Simulator\Bee Hive Simulator\obj\x86\Debug\Bee_Hive_Simulator.FieldForm.resources
+C:\Users\alyos\OneDrive\Рабочий стол\Проекты\VS2010\Bee Hive Simulator\Bee Hive Simulator\obj\x86\Debug\Bee_Hive_Simulator.Form1.resources
+C:\Users\alyos\OneDrive\Рабочий стол\Проекты\VS2010\Bee Hive Simulator\Bee Hive Simulator\obj\x86\Debug\Bee_Hive_Simulator.HiveForm.resources
+C:\Users\alyos\OneDrive\Рабочий стол\Проекты\VS2010\Bee Hive Simulator\Bee Hive Simulator\obj\x86\Debug\Bee_Hive_Simulator.Properties.Resources.resources
+C:\Users\alyos\OneDrive\Рабочий стол\Проекты\VS2010\Bee Hive Simulator\Bee Hive Simulator\obj\x86\Debug\Bee Hive Simulator.csproj.GenerateResource.Cache
